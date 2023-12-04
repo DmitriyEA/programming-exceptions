@@ -5,8 +5,5 @@ public class Main {
 
         Presenter presenter = new Presenter();
         presenter.onStart();
-
-
-
     }
 }
